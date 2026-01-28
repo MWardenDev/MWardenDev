@@ -31,6 +31,7 @@ tomorrow.
 ## 🧠 What I'm Learning
 
 -   **Azure** (App Services, Observability, Identity/IAM)\
+-   **AWS** \
 -   **AI & Machine Learning fundamentals**\
 -   **Distributed systems best practices** (tracing, contracts,
     resilience patterns)\
