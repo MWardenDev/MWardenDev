@@ -59,7 +59,7 @@ XSLT (because someone has to know it)
     propagation\
 -   **Logging.Core** -- Multi-sink logging library\
 -   **React Components UI** -- Reusable React UI library deployed via
-    Vercel\
+    Vercel\ https://react-metrics-dashboard.vercel.app/
 -   **HTMX Demo** -- Light-weight server-front-end integration demo\
 -   **Johnny-5 Arm** -- Robotic arm control system (Pi + servos + voice
     commands)
